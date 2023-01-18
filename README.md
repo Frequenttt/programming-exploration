@@ -13,7 +13,3 @@
 7- I learned how to use Bootstrap 5, JavaScript and I have improved on HTML and CSS. With these, I have learned how to create buttons, popovers, adding hyperlinks, web design, profile cards, tables, adding links on tables, many new commands I can use in the future.
 
 
-
-
-
-
